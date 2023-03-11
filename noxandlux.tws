@@ -185,7 +185,7 @@ g14
 I00
 sg15
 (lp69
-F262.0
+F150.0
 aF10.0
 asg17
 (itiddlywiki
@@ -235,8 +235,8 @@ g14
 I00
 sg15
 (lp84
-F260.33333333333337
-aF148.33333333333337
+F150.0
+aF150.0
 asg17
 (itiddlywiki
 Tiddler
@@ -285,8 +285,8 @@ g14
 I00
 sg15
 (lp99
-F405.83333333333337
-aF41.66666666666667
+F430.0
+aF10.0
 asg17
 (itiddlywiki
 Tiddler
@@ -335,8 +335,8 @@ g14
 I00
 sg15
 (lp114
-F260.33333333333337
-aF288.33333333333337
+F290.0
+aF290.0
 asg17
 (itiddlywiki
 Tiddler
@@ -1061,7 +1061,7 @@ Tiddler
 p334
 (dp335
 g21
-VYou go to the shelf. There's a few to choose from.\u000a\u000a[[Identity Crisis or Memory Loss: Remembering Who You Are When You Desperately Want to Forget|Pamphlet 1]]\u000a\u000a[[I Forgot His Birthday Again: How We Determine What Should be Forgotten and Remembered|Pamphlet 2]]\u000a\u000a[[Will This be on the Test? Deciphering Between Short Term Memory Loss and Long Term Distractions|Pamphlet 3]]\u000a\u000a[[No thanks, I did enough reading in grad school. |No Thanks]]
+VYou go to the shelf. There's a few to choose from.\u000a\u000a[[Identity Crisis or Memory Loss: Remembering Who You Are When You Desperately Want to Forget|Pamphlet 1]]\u000a\u000a[[I Forgot Her Birthday Again: How to Remember the Boring Stuff|Pamphlet 2]]\u000a\u000a[[Will This be on the Test? Deciphering Between Short Term Memory Loss and Long Term Distractions|Pamphlet 3]]\u000a\u000a[[No thanks, I did enough reading in grad school. |No Thanks]]
 p336
 sg23
 VPamphlet
@@ -1070,12 +1070,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
-I12
+I10
+I16
+I26
+I26
 I4
-I6
-I64
+I69
 I0
 tp338
 (dp339
@@ -1111,7 +1111,7 @@ Tiddler
 p349
 (dp350
 g21
-V\u000aYou hear a door slam and a loud groan. Somebody must be banging on a metal pot.\u000a\u000a\u000a[[Finally! A distraction. This is awful.|Meet Lux]]\u000a\u000a[[This is fascinating but I can't concentrate with that noise.|Meet Lux]]
+VYou hear some heavy footsteps coming from a back room.\u000a\u000aYou hear a door slam and a loud groan. Somebody must be banging on a metal pot.\u000a\u000a\u000a[[Finally! A distraction. This is awful.|Meet Lux]]\u000a\u000a[[This is fascinating but I can't concentrate with that noise.|Meet Lux]]
 p351
 sg23
 VPamphlet 3
@@ -1120,12 +1120,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
-I1
-I43
-I6
-I64
+I10
+I16
+I27
+I26
+I4
+I69
 I0
 tp353
 (dp354
@@ -1161,7 +1161,7 @@ Tiddler
 p364
 (dp365
 g21
-V\u000a[[Finally! A distraction. This is awful.|Meet Lux]]\u000a\u000a[[This is fascinating but I can't concentrate with that noise.|Meet Lux]]
+VYou hear some heavy footsteps coming from a back room.\u000a\u000a[[Finally! A distraction. This is awful.|Meet Lux]]\u000a\u000a[[This is fascinating but I can't concentrate with that noise.|Meet Lux]]
 p366
 sg23
 VPamphlet 2
@@ -1170,12 +1170,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
-I1
-I55
-I6
-I64
+I10
+I16
+I27
+I18
+I4
+I69
 I0
 tp368
 (dp369
@@ -1211,7 +1211,7 @@ Tiddler
 p379
 (dp380
 g21
-V\u000a[[Finally! A distraction. This is awful.|Meet Lux]]\u000a\u000a[[This is fascinating but I can't concentrate with that noise.|Meet Lux]]
+VYou hear some heavy footsteps coming from a back room.\u000a\u000a[[Finally! A distraction. This is awful.|Meet Lux]]\u000a\u000a[[This is fascinating but I can't concentrate with that noise.|Meet Lux]]
 p381
 sg23
 VPamphlet 1
@@ -1220,12 +1220,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
-I1
-I50
-I6
-I64
+I10
+I16
+I27
+I7
+I4
+I69
 I0
 tp383
 (dp384
@@ -1261,7 +1261,7 @@ Tiddler
 p394
 (dp395
 g21
-V\u000a[[Finally! A distraction. This is awful.|Meet Lux]]\u000a\u000a[[This is fascinating but I can't concentrate with that noise.|Meet Lux]]
+VYou hear some heavy footsteps coming from a back room.\u000a\u000a[[Finally! A distraction. The boredom is too much to bear.|Meet Lux]]
 p396
 sg23
 VNo Thanks
@@ -1270,12 +1270,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
-I1
-I59
-I6
-I64
+I10
+I16
+I28
+I2
+I4
+I69
 I0
 tp398
 (dp399
@@ -1504,14 +1504,14 @@ I00
 sg15
 (lp468
 F1690.0
-aF570.0
+aF710.0
 asg17
 (itiddlywiki
 Tiddler
 p469
 (dp470
 g21
-V\u2026Yes, that is a bit of a misconception. That memories can be taken away from the spirit when in fact, spirits gift these memories all of the time. Many of us are concerned about the memory draft. As we should be. We have always been afraid to lose a memory, less we lose a connection to a spirit as well,\u2026\u000a\u000a"Well, let's get this tour on the road, shall we?" Nox has transformed into a fiery pink outfit with sunglasses and driving gloves. You're not prepared for a field trip.\u000a\u000a\u000a[[Follow Nox to the Back|Ready]]
+V\u2026Yes, that is a bit of a misconception. It's  difficult to take a memory from a spirit but not impossible. That's why some of us are so worried about the memory draft. You lose a memory, you might lose a connection to another spirit as well, go mad trying to recreate it\u2026 \u000a\u000aSorry, didn't mean to get so dark. Spirits gift memories all the time. Lots of embarrassing ones involving bathroom tissue. Lux winks at you.\u000a\u000aAnyways, you can take it from here, right? Gotta archive a few memories before the end of the day.\u000a\u000a[[Return to spirit in yellow. |Ask Spirit in Yellow]]\u000a
 p471
 sg23
 VLux Explains
@@ -1520,12 +1520,12 @@ sg25
 g26
 ((I2023
 I3
-I5
+I10
+I16
+I10
+I9
 I4
-I1
-I44
-I6
-I64
+I69
 I0
 tp473
 (dp474
@@ -1561,7 +1561,7 @@ Tiddler
 p484
 (dp485
 g21
-V"So here we got the 3 S's. \u000a\u000aSpirit. Pretty explanatory.\u000a\u000aState is either balanced, unbalanced or in-limbo. I don't use the latter that often. Spirits come in somewhat unsettled, maybe a bit compromised about something they did in their past life. Some are balanced. They've accepted what they've done, past actions that affected people.\u000a\u000aSymptoms are ... such as ...\u000a\u000aThe next form is a donation.\u000a\u000a[[You can donate a memory?|Donation]]\u000a\u000a[[Why would someone donate a memory?|Donation]]\u000a\u000a
+V"So here we got the 3 S's. \u000a\u000aSpirit. Pretty explanatory.\u000a\u000aState is either balanced, unbalanced or in-limbo. I don't use the latter that often. Spirits come in somewhat unsettled, maybe a bit compromised about something they did in their past life. Some are balanced. They've accepted what they've done, past actions that affected people.\u000a\u000aFor symptoms, write about their emotional state upon entering the building and anything they might feel. Especially headaches.\u000a\u000a[[You can donate a memory?|Donation]]\u000a\u000a
 p486
 sg23
 VQuestions
@@ -1570,12 +1570,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
-I41
-I55
-I6
-I64
+I10
+I16
+I9
+I0
+I4
+I69
 I0
 tp488
 (dp489
@@ -1611,7 +1611,7 @@ Tiddler
 p499
 (dp500
 g21
-VYeah, it's kind of weird\u000a\u000a[[Lux Explains]]
+VLux laughs. You must be a new spirit. \u000a\u000aOnce you pass over, you still have the memories of your past life. Sometimes, you've made peace with your decisions. Sometimes, you're nowhere close and you're more than willing to let go of a memory or two if it gets you closer to closure.\u000a\u000a[[Does it work for them? They really get closure? | Closure]]\u000a\u000a[[Sounds easy. So you can just take any memory they don't want? |Lux Explains]]
 p501
 sg23
 VDonation
@@ -1620,12 +1620,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
-I42
-I33
-I6
-I64
+I10
+I15
+I43
+I24
+I4
+I69
 I0
 tp503
 (dp504
@@ -1661,7 +1661,7 @@ Tiddler
 p514
 (dp515
 g21
-VYou got to check in the lady in yellow. Ok, breathe you got this.\u000a\u000aSpirit, you ask?\u000a\u000a"17388299838382983827372773999992883838\u000a\u000a"Point?\u000a\u000a".38388 of course. Best spirits are made there" She laughs.\u000a\u000aState. Is that supposed to be happiness? She seems cheerful. \u000a\u000aSymptoms. What does that even mean?\u000a\u000a[[Pull Lux to the side. This is confusing.|Questions]]\u000a\u000a
+VYou got to check in the lady in yellow. Ok, breathe you got this.\u000a\u000aSpirit, you ask?\u000a\u000a"17388299838382983827372773999992883838\u000a\u000a"Point?\u000a\u000a".38388 of course. Best spirits are made there" She laughs.\u000a\u000aYou look down at the form again. \u000a\u000aState. Is that supposed to be happiness? She seems cheerful. \u000a\u000aSymptoms. What does that even mean?\u000a\u000a[[Pull Lux to the side. This is confusing.|Questions]]\u000a\u000a
 p516
 sg23
 VCheck-In
@@ -1670,12 +1670,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
-I48
-I29
-I6
-I64
+I10
+I15
+I56
+I39
+I4
+I69
 I0
 tp518
 (dp519
@@ -1711,7 +1711,7 @@ Tiddler
 p529
 (dp530
 g21
-V
+VNox leads you down a dimly lit tunnel. Everything's cold, dark and stoney. Only one way in and one way out.\u000a\u000aAfter taking a small motored boat down a little canal, you descend to what appears to be a small cave. Something seems to be swimming in the canal but you're not sure if it's the weird lighting or your anxiousness.\u000a\u000aNox steers the boat to the side and turns off the engine. You walk toward. There's a stone circle atop a wooden platform at the bank.\u000a\u000a"Alright, we have arrived at The Circle of Light. Where we transfer memories before archiving. Here are some of the most beautiful memories. Terrifying memories. Beautifully terrifying...\u000a\u000a[[Why is it called the Circle of Guardians.|Circle of Guardians]]\u000a\u000a[[Can we look at one?|Give Before You Take]]\u000a\u000a
 p531
 sg23
 VGrand Tour
@@ -1720,12 +1720,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
+I10
+I16
 I49
-I12
-I6
-I64
+I45
+I4
+I69
 I0
 tp533
 (dp534
@@ -1857,29 +1857,29 @@ g14
 I00
 sg15
 (lp575
-F2110.0
-aF430.0
+F1970.0
+aF570.0
 asg17
 (itiddlywiki
 Tiddler
 p576
 (dp577
 g21
-Vwoman in yellow sees a memory\u000a\u000a
+VYou've come to the end of the first day. You imagined how it would be working here but could have never foreseen that. You decided to donate a memory after all.\u000a\u000aWant to work here again?\u000a\u000a[[Work where? Am I at the Memory Museum? I knew those classes would pay off. |The End]\u000a\u000a[[Yeah, can't wait to see what happens tomorrow. |The End]]\u000a
 p578
 sg23
-VSee the Memory
+VEnd of Tour
 p579
 sg25
 g26
 ((I2023
 I3
-I5
-I3
-I55
-I22
-I6
-I64
+I10
+I16
+I35
+I27
+I4
+I69
 I0
 tp580
 (dp581
@@ -1907,15 +1907,15 @@ g14
 I00
 sg15
 (lp590
-F2110.0
-aF290.0
+F1970.0
+aF430.0
 asg17
 (itiddlywiki
 Tiddler
 p591
 (dp592
 g21
-V[[See the Memory]]
+VNox pulls you aside. Does she have any headaches? She keeps patting her head.\u000a\u000a[[Yes, some throbbing on her right side. |See a Loopy Memory]]\u000a\u000a[[No, she didn't mention anything |See a Terrifying Memory]]
 p593
 sg23
 VVolunteer Later
@@ -1924,12 +1924,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
-I56
-I23
-I6
-I64
+I10
+I16
+I30
+I59
+I4
+I69
 I0
 tp595
 (dp596
@@ -1957,15 +1957,15 @@ g14
 I00
 sg15
 (lp605
-F1970.0
-aF430.0
+F2110.0
+aF290.0
 asg17
 (itiddlywiki
 Tiddler
 p606
 (dp607
 g21
-V\u000a...\u000a\u000a\u000ayou gasp,\u000a\u000ait was a bit exhilerating. not as scary as you'd thought.\u000a\u000a"Now, that wasn't so bad. Why don't you give it a try?\u000a\u000aThe woman hesitates a bit, steps up to the plank and closes her eyes. Lux pulls the lever\u000a\u000a[[She vanishes in a vortex of bubbles. Is that suppose to happen?|See the Memory]]
+V\u000a...\u000a\u000a\u000ayou gasp,\u000a\u000ait was a bit exhilerating. not as scary as you'd thought.\u000a\u000a"Now, that wasn't so bad. Why don't you give it a try?\u000a\u000aThe woman hesitates a bit, steps up to the plank and closes her eyes. Lux pulls the lever\u000a\u000a[[She vanishes in a vortex of bubbles. Is that suppose to happen?|See a Terrifying Memory]]
 p608
 sg23
 VSee your memory
@@ -1974,12 +1974,12 @@ sg25
 g26
 ((I2023
 I3
-I5
-I3
-I59
-I53
-I6
-I64
+I10
+I16
+I31
+I49
+I4
+I69
 I0
 tp610
 (dp611
@@ -2008,14 +2008,14 @@ I00
 sg15
 (lp620
 F1690.0
-aF710.0
+aF850.0
 asg17
 (itiddlywiki
 Tiddler
 p621
 (dp622
 g21
-V\u000aThis is it. Now, you get to see why this place is so powerful. So dear to my heart.\u000a\u000a\u000a[[Grand Tour]]
+V\u000a"Well, let's get this tour on the road, shall we?" Nox has transformed into a fiery pink outfit with sunglasses and driving gloves.\u000a\u000a\u000aThis is it. Now, you get to see why this place is so powerful. So dear to my heart.\u000a\u000a\u000a[[Give the forms to Lux and follow Nox.|Grand Tour]]\u000a\u000a[[Just a second Nox. One quick thing.|Forgot Something]]
 p623
 sg23
 VReady
@@ -2024,12 +2024,12 @@ sg25
 g26
 ((I2023
 I3
-I5
+I10
+I16
+I20
+I24
 I4
-I2
-I26
-I6
-I64
+I69
 I0
 tp625
 (dp626
@@ -2052,10 +2052,460 @@ tp630
 (dp631
 tp632
 Rp633
+sbsa(dp634
+g14
+I00
+sg15
+(lp635
+F1690.0
+aF570.0
+asg17
+(itiddlywiki
+Tiddler
+p636
+(dp637
+g21
+VNot sure. I still have all my memories intact.\u000a\u000aBut, I heard for those that donate their memories, the feeling still sticks with them. Like they're around a certain person or in a certain setting. Then, boom, they're washed over with this feeling. But, they don't have a memory to attach it to so it just creates confusion.\u000a\u000a[[Sounds easy. So you can just take any memory they don't want? |Lux Explains]]
+p638
+sg23
+V Closure
+p639
+sg25
+g26
+((I2023
+I3
+I10
+I15
+I46
+I22
+I4
+I69
+I0
+tp640
+(dp641
+tp642
+Rp643
+sg31
+(lp644
+sg33
+g26
+((I2023
+I3
+I10
+I15
+I43
+I14
+I4
+I69
+I0
+tp645
+(dp646
+tp647
+Rp648
+sbsa(dp649
+g14
+I00
+sg15
+(lp650
+F1550.0
+aF570.0
+asg17
+(itiddlywiki
+Tiddler
+p651
+(dp652
+g21
+VYou return to the front desk. You ask a few questions.\u000a\u000a"What is your state, madam?" She fidgets a little, wringing her hands.\u000a\u000a"That's a weird question, don't you think? I'm just here to see some memories like any other art lover. Obviously balanced". You hesitate for a second.\u000a\u000a\u000a[[Write down balanced. |Symptoms]]\u000a\u000a[[Write down unbalanced. |Symptoms]]\u000a\u000a[[Write down in-limbo. |Symptoms]]
+p653
+sg23
+VAsk Spirit in Yellow
+p654
+sg25
+g26
+((I2023
+I3
+I10
+I16
+I6
+I19
+I4
+I69
+I0
+tp655
+(dp656
+tp657
+Rp658
+sg31
+(lp659
+sg33
+g26
+((I2023
+I3
+I10
+I16
+I1
+I27
+I4
+I69
+I0
+tp660
+(dp661
+tp662
+Rp663
+sbsa(dp664
+g14
+I00
+sg15
+(lp665
+F1550.0
+aF710.0
+asg17
+(itiddlywiki
+Tiddler
+p666
+(dp667
+g21
+V"Ok, any symptoms?"\u000a\u000a"Oh yeah, a little scared walking around this cemetery but otherwise in 'good spirits' as they say" She laughs.\u000a\u000a[[Write down anxious. |Ready]]\u000a\u000a[[Write down excited. |Ready]]\u000a\u000a[[Write down afraid. |Ready]]
+p668
+sg23
+VSymptoms
+p669
+sg25
+g26
+((I2023
+I3
+I10
+I16
+I15
+I36
+I4
+I69
+I0
+tp670
+(dp671
+tp672
+Rp673
+sg31
+(lp674
+sg33
+g26
+((I2023
+I3
+I10
+I16
+I6
+I23
+I4
+I69
+I0
+tp675
+(dp676
+tp677
+Rp678
+sbsa(dp679
+g14
+I00
+sg15
+(lp680
+F1690.0
+aF990.0
+asg17
+(itiddlywiki
+Tiddler
+p681
+(dp682
+g21
+V\u000a[[Ask spirit about headaches|Rollercoaster]]\u000a\u000a[[Ask spirit about heartaches|Rollercoaster]]
+p683
+sg23
+VForgot Something
+p684
+sg25
+g26
+((I2023
+I3
+I10
+I16
+I16
+I5
+I4
+I69
+I0
+tp685
+(dp686
+tp687
+Rp688
+sg31
+(lp689
+sg33
+g26
+((I2023
+I3
+I10
+I16
+I13
+I51
+I4
+I69
+I0
+tp690
+(dp691
+tp692
+Rp693
+sbsa(dp694
+g14
+I00
+sg15
+(lp695
+F1830.0
+aF990.0
+asg17
+(itiddlywiki
+Tiddler
+p696
+(dp697
+g21
+VThis woman starts talking about her seven children and three ex-husbands. Or was it three children and ex-husbands? The story got kind of confusing after the part about fighting with mangoes. But, at least you got the answer you needed. \u000a\u000aNox clears her throat to stop the never ending story.\u000a\u000a[[Give the forms to Lux and follow Nox for the tour.|Grand Tour]]
+p698
+sg23
+VRollercoaster
+p699
+sg25
+g26
+((I2023
+I3
+I10
+I16
+I22
+I28
+I4
+I69
+I0
+tp700
+(dp701
+tp702
+Rp703
+sg31
+(lp704
+sg33
+g26
+((I2023
+I3
+I10
+I16
+I16
+I8
+I4
+I69
+I0
+tp705
+(dp706
+tp707
+Rp708
+sbsa(dp709
+g14
+I00
+sg15
+(lp710
+F2250.0
+aF570.0
+asg17
+(itiddlywiki
+Tiddler
+p711
+(dp712
+g21
+V\u000a[[Enough of that nonsense. |End of Tour]]
+p713
+sg23
+VSee a Loopy Memory
+p714
+sg25
+g26
+((I2023
+I3
+I10
+I16
+I36
+I47
+I4
+I69
+I0
+tp715
+(dp716
+tp717
+Rp718
+sg31
+(lp719
+sg33
+g26
+((I2023
+I3
+I10
+I16
+I31
+I5
+I4
+I69
+I0
+tp720
+(dp721
+tp722
+Rp723
+sbsa(dp724
+g14
+I00
+sg15
+(lp725
+F2250.0
+aF430.0
+asg17
+(itiddlywiki
+Tiddler
+p726
+(dp727
+g21
+V[[Enough of that nonsense. |End of Tour]]
+p728
+sg23
+VSee a Terrifying Memory
+p729
+sg25
+g26
+((I2023
+I3
+I10
+I16
+I36
+I59
+I4
+I69
+I0
+tp730
+(dp731
+tp732
+Rp733
+sg31
+(lp734
+sg33
+g26
+((I2023
+I3
+I10
+I16
+I31
+I5
+I4
+I69
+I0
+tp735
+(dp736
+tp737
+Rp738
+sbsa(dp739
+g14
+I00
+sg15
+(lp740
+F1970.0
+aF710.0
+asg17
+(itiddlywiki
+Tiddler
+p741
+(dp742
+g21
+VThanks for playing!
+p743
+sg23
+VThe End
+p744
+sg25
+g26
+((I2023
+I3
+I10
+I16
+I35
+I39
+I4
+I69
+I0
+tp745
+(dp746
+tp747
+Rp748
+sg31
+(lp749
+sg33
+g26
+((I2023
+I3
+I10
+I16
+I35
+I32
+I4
+I69
+I0
+tp750
+(dp751
+tp752
+Rp753
+sbsa(dp754
+g14
+I00
+sg15
+(lp755
+F2110.0
+aF10.0
+asg17
+(itiddlywiki
+Tiddler
+p756
+(dp757
+g21
+V\u000aGreat question E! Love that inquisitive spirit. I can tell you read one of the pamphlets.\u000a\u000acircle of guardians -- explained\u000a\u000a[[Can we see one of the memories?|Give Before You Take]]
+p758
+sg23
+VCircle of Guardians
+p759
+sg25
+g26
+((I2023
+I3
+I10
+I16
+I51
+I52
+I4
+I69
+I0
+tp760
+(dp761
+tp762
+Rp763
+sg31
+(lp764
+sg33
+g26
+((I2023
+I3
+I10
+I16
+I49
+I55
+I4
+I69
+I0
+tp765
+(dp766
+tp767
+Rp768
 sbsasS'scale'
-p634
+p769
 F1.2
 sS'snapping'
-p635
+p770
 I01
 ss.
